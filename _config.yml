@@ -2,7 +2,7 @@ title: Vue-SUI-Demo
 description: 用Vue 和 SUI-Mobile 写了一个移动端demo，用来反馈学习vue的成果（禁用了SUI自带的路由，使用vue-router, vue-resource, webpack）[a  mobile demo of vue]
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-merlot
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
